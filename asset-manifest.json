@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gwang1210/goldenwokV2/static/css/main.073c9b0a.css",
-    "main.js": "/gwang1210/goldenwokV2/static/js/main.fca87f1c.js",
-    "static/js/787.a62a2b2e.chunk.js": "/gwang1210/goldenwokV2/static/js/787.a62a2b2e.chunk.js",
-    "static/media/logo.svg": "/gwang1210/goldenwokV2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/gwang1210/goldenwokV2/index.html",
-    "main.073c9b0a.css.map": "/gwang1210/goldenwokV2/static/css/main.073c9b0a.css.map",
-    "main.fca87f1c.js.map": "/gwang1210/goldenwokV2/static/js/main.fca87f1c.js.map",
-    "787.a62a2b2e.chunk.js.map": "/gwang1210/goldenwokV2/static/js/787.a62a2b2e.chunk.js.map"
+    "main.css": "/goldenwokV2/static/css/main.073c9b0a.css",
+    "main.js": "/goldenwokV2/static/js/main.68936703.js",
+    "static/js/787.a62a2b2e.chunk.js": "/goldenwokV2/static/js/787.a62a2b2e.chunk.js",
+    "static/media/logo.svg": "/goldenwokV2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/goldenwokV2/index.html",
+    "main.073c9b0a.css.map": "/goldenwokV2/static/css/main.073c9b0a.css.map",
+    "main.68936703.js.map": "/goldenwokV2/static/js/main.68936703.js.map",
+    "787.a62a2b2e.chunk.js.map": "/goldenwokV2/static/js/787.a62a2b2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fca87f1c.js"
+    "static/js/main.68936703.js"
   ]
 }
